@@ -1,0 +1,22 @@
+{
+  "name": "sigia-patrones",
+  "version": "1.0.0",
+  "description": "SIGIA — Prototipo de Patrones de Diseño: State y Chain of Responsibility",
+  "main": "src/demo/index.js",
+  "scripts": {
+    "start": "node src/demo/index.js",
+    "demo:state": "node src/demo/demoState.js",
+    "demo:chain": "node src/demo/demoChain.js",
+    "server": "node src/server.js",
+    "server:dev": "nodemon src/server.js"
+  },
+  "author": "Samuel Echeverri | Juan Diego Aristizábal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

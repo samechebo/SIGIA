@@ -1,0 +1,9 @@
+{
+  "name": "sigia-deploy",
+  "version": "1.0.0",
+  "description": "SIGIA — dependencias para la serverless function de Vercel",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

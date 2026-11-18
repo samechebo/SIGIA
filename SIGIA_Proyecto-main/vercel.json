@@ -1,0 +1,9 @@
+{
+  "installCommand": "npm install",
+  "buildCommand": "cd sigia-frontend && npm install && npm run build",
+  "outputDirectory": "sigia-frontend/dist",
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "/api/index" },
+    { "source": "/(.*)",       "destination": "/index.html" }
+  ]
+}
