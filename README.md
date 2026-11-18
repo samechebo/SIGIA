@@ -31,7 +31,7 @@ Taller de confiabilidad sobre el modelo C4 de **SIGIA** (Sistema Inteligente de 
 | Trabajo incremental sobre C4 | Los flujos críticos salen de los contenedores y componentes del C4 (sección 2.4) |
 | Formato | Markdown en GitHub |
 
-**Informe completo:** [`SIGIA_SLA_SLO_SLI_ErrorBudget.md`](SIGIA_SLA_SLO_SLI_ErrorBudget.md)
+**Informe completo:** [`docs/SIGIA_SLA_SLO_SLI_ErrorBudget.md`](docs/SIGIA_SLA_SLO_SLI_ErrorBudget.md)
 
 ## Resumen
 
